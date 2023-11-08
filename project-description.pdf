@@ -1,0 +1,14 @@
+Projet de fin de chapitre : Spring Web & Data
+
+Soit une application de gestion d’un tournoi de football. Les entités de base sont : Match, Equipe, Joueur, Stade et Arbitre qui sont présentées dans le diagramme de classe suivant :
+Créer une application back End en Spring boot qui réalise les objectifs suivants :
+Récupérer tous les matchs, équipes, joueurs, stades et arbitres
+Enregistrer un nouvel arbitre, stade, match, joueur et équipe
+Modifier et supprimer un arbitre, match, stade, équipe et joueur
+Récupérer toutes les équipes du ‘Maroc’
+Récupérer les matchs qui sont programmés le ‘28/02/2021’
+Récupérer le stade où se déroule le match de l’id=3
+Récupérer tous les joueurs de l’équipe ‘ATL MADRID’
+Récupérer les deux équipes du math de l’id=3
+Récupérer tous les joueurs de poste=’attaquant’ de l’équipe ‘PSG’
+Supprimer tous les matchs déjà passés
