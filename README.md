@@ -19,5 +19,5 @@ This project focuses on the development of a football tournament management appl
 
 This repository contains the backend implementation for the above-mentioned functionalities using Spring Boot.
 
-Please refer to the [video demonstration]([insert_video_link](https://youtu.be/yKuwIUiEnEg)) for a visual presentation of the application's features.
+Please refer to the [video demonstration](https://youtu.be/yKuwIUiEnEg) for a visual presentation of the application's features.
 
