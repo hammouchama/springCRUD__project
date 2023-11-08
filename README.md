@@ -3,6 +3,7 @@
 ## Projet de fin de chapitre : Spring Web & Data
 
 This project focuses on the development of a football tournament management application using Spring Boot. The fundamental entities of the system include Matches, Teams, Players, Stadiums, and Referees, as depicted in the accompanying class diagram.
+![Class Diagram](classgiagram.png)
 
 ### Project Objectives:
 - Retrieve all matches, teams, players, stadiums, and referees.
